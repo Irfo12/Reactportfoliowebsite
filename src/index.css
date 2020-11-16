@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.active_menu{
+    /* font-weight: bold; */
+    border-bottom: 1px solid #565387;
+}
+.content{
+    padding-left: 140px;
+    padding-top: 125px;
+    font-family: 'Mulish', sans-serif;
+    word-spacing: 1px;
+}
+.aboutContent{
+    padding-left: 140px;
+    padding-top: 145px;
+    font-family: 'Mulish', sans-serif;
+    word-spacing: 1px;
+}
+.irfan_Span{
+    color: #3498db;
+}
+.mainHeadng{
+    font-size: 27px;
+    font-weight: 600;
+}
+.secondHeading{
+    font-size: 16px;
+    color: #484848;
+}
+.getStartedBtn{
+    border-radius: 80%;
+}
+/* .btn{
+    width: 70px;
+    text-align: justify;
+    padding-bottom: 20px;
+    height: 30px;
+} */
+
+
+
